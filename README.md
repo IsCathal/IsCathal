@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 I’m currently working on: Learning React, Ruby on Rails, and Python scripting with OpenAI integration.<br>👐 I’m looking to collaborate on: React projects.<br>🤝 I’m looking for help with: Advanced React patterns and integrations.<br>🌱 I’m currently learning: React and Python scripting for OpenAI.<br>💬 Ask me about: Front-end development, Python scripting with OpenAI, and transitioning to full-stack with Rails.<br>⚡ Fun fact:Planning todo a lightning talk on React Plus VR.
+🔨 I’m currently working on: Learning React, Ruby on Rails, and Python scripting with OpenAI integration.<br>👐 I’m looking to collaborate on: React projects.<br>🤝 I’m looking for help with: Advanced React patterns and integrations.<br>🌱 I’m currently learning: React and Python scripting for OpenAI.<br>💬 Ask me about: Front-end development, Python scripting with OpenAI, and transitioning to full-stack with Rails.<br>⚡ Fun fact:Planning todo a lightning talk on React Plus VR/ Google Chrome Built-in AI Challenge 
 
 
 # 💻 Tech Stack:
